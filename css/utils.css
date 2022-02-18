@@ -208,9 +208,7 @@ body.error-active .error__overlay {
   .title {
     font-size: 13.5rem;
   }
-.logo {
-  font-size: 3rem;
-}
+
 }
 @media screen and (min-width: 1440px) {
   .title {
